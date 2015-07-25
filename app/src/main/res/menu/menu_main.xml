@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/set_difficulty"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/set_difficulty"
+        android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/clear_high_score"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/clear_high_score"
+        android:showAsAction="ifRoom"/>
+
+</menu>

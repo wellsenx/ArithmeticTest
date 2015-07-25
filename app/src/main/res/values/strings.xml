@@ -1,0 +1,42 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Arithmetic Test</string>
+    <string name="app_title">+   -   *   /</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+
+    <!-- MainActivity -->
+    <string name="main_high_score_label">High Score: </string>
+    <string name="main_high_score">0</string>
+    <string name="main_start_button">Start</string>
+    <string name="title_activity_question">Question 1</string>
+    <string name="difficulty_label">Difficulty: </string>
+    <string name="difficulty">Medium</string>
+
+    <!-- QuestionActivity -->
+    <string name="question_solved_label">Solved: </string>
+    <string name="question_solved">0</string>
+    <string name="question_time_remaining_label">Time Remaining: </string>
+    <string name="question_time_remaining">60</string>
+    <string name="title_activity_result">Test Result</string>
+
+    <!-- ResultActivity -->
+    <string name="result_title">Result</string>
+    <string name="result_solved_label">Solved Count: </string>
+    <string name="result_total_label">Total Questions: </string>
+    <string name="result_accuracy_label">% Correct Accuracy: </string>
+    <string name="result_score_label">Total Score: </string>
+    <string name="got_high_score_message">Congratulations, you got a new high score</string>
+
+    <!-- Main Menu and Dialog -->
+    <string name="clear_high_score">Clear High Score</string>
+    <string name="set_difficulty">Select Difficulty Level</string>
+    <string name="clear_high_score_message">Do you really want to clear High Score record?</string>
+    <string name="high_score_cleared_message">High Score cleared</string>
+    <string name="yes_string">Yes</string>
+    <string name="no_string">No</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="ok_string">OK</string>
+
+</resources>
